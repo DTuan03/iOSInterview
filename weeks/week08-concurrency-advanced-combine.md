@@ -25,13 +25,13 @@ Cuối tuần, không nhìn tài liệu, bạn phải:
 
 | Ngày | Thời lượng | Nội dung | Đầu ra |
 |---|---|---|---|
-| **T2 28/12** | 2h | §1 **Sendable** (đọc kỹ). §2 `@Sendable` closure. Bài tập 1 · DSA: Reverse Linked List (làm cả iterative và recursive) | `day1.swift`, bảng phân loại Sendable |
-| **T3 29/12** | 2h | §3 **Swift 6 strict concurrency — 5 lỗi kinh điển**. §4 Region-based isolation & `sending`. Bài tập 2 · DSA: Merge Two Sorted Lists | `day2.swift` compile sạch ở `-swift-version 6` |
-| **T4 30/12** | 2h | §5 Migrate từng bước + Swift 6.2 "approachable concurrency". §6 **AsyncSequence / AsyncStream**. Bài tập 3, 4 · DSA: Linked List Cycle | `day3.swift` |
+| **T2 28/12** | 2h | §1 **Sendable** (đọc kỹ). §2 `@Sendable` closure. Bài tập 1 · DSA: Fibonacci Number (đệ quy + memo) | `day1.swift`, bảng phân loại Sendable |
+| **T3 29/12** | 2h | §3 **Swift 6 strict concurrency — 5 lỗi kinh điển**. §4 Region-based isolation & `sending`. Bài tập 2 · DSA: Palindrome Linked List | `day2.swift` compile sạch ở `-swift-version 6` |
+| **T4 30/12** | 2h | §5 Migrate từng bước + Swift 6.2 "approachable concurrency". §6 **AsyncSequence / AsyncStream**. Bài tập 3, 4 · DSA: Swap Nodes in Pairs | `day3.swift` |
 | **T5 31/12** | 1,5h | (Tất niên — tuần nhẹ) §7 **Combine cơ bản**: Publisher/Subscriber, Subject, `@Published`, `AnyCancellable`. Bài tập 5 | `day4.swift` |
 | **T6 01/01** | **Nghỉ** | 🎉 Tết Dương lịch. Không học. (Nếu muốn: nghe lại 1 voice memo tuần 7, tối đa 15') | — |
-| **T7 02/01** | 4h | §8 Operator & Scheduler, §9 Combine vs async/await. Bài tập 6, 7 + **Bài tập lớn**. DSA: Middle of the Linked List, Remove Nth Node From End of List. **Side project: Milestone 8** (bật Swift 6 language mode, sửa hết Sendable warning, search có debounce) | `search_debounce.swift`, commit side project |
-| **CN 03/01** | 2,5h | Tự trả lời 18 câu phỏng vấn. **Làm bài tự kiểm tra M2** (60'). DSA: Palindrome Linked List. Tick checklist | Checklist ≥ 80%, M2 đạt |
+| **T7 02/01** | 4h | §8 Operator & Scheduler, §9 Combine vs async/await. Bài tập 6, 7 + **Bài tập lớn**. DSA: Intersection of Two Linked Lists, Add Two Numbers. **Side project: Milestone 8** (bật Swift 6 language mode, sửa hết Sendable warning, search có debounce) | `search_debounce.swift`, commit side project |
+| **CN 03/01** | 2,5h | Tự trả lời 18 câu phỏng vấn. **Làm bài tự kiểm tra M2** (60'). DSA: Reorder List. Tick checklist | Checklist ≥ 80%, M2 đạt |
 
 > Tuần này mất 1 ngày (01/01), nên T7 và CN dài hơn bình thường 30'. Nếu T7 bận, **dời Bài tập 7 sang CN, giữ Bài tập lớn + side project ở T7.**
 

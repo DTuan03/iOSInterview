@@ -1684,6 +1684,22 @@ Mỗi buổi **chọn ngẫu nhiên 2 bài**, 45' cho cả hai, có người (ho
 
 ---
 
+## ➕ Bài bổ sung được nhắc trong file tuần
+
+Một số file tuần gợi ý thêm bài ngoài 6 bài chính ở trên. Đây là bài **tuỳ chọn**: làm nếu còn thời gian, không tính vào checklist "6 bài".
+
+| Tuần | Bài bổ sung |
+|---|---|
+| 5 | [394. Decode String](https://leetcode.com/problems/decode-string/) 🟡 |
+| 6 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) 🟡 · [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) 🟡 |
+| 7 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) 🟡 |
+| 9 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) 🟡 |
+| 10 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) 🟡 |
+| 11 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) 🔴 |
+| 15 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) 🟡 |
+| 16 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) 🟡 |
+| 17 | [134. Gas Station](https://leetcode.com/problems/gas-station/) 🟡 · [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 🟡 (bài Premium — có thể làm bản miễn phí trên LintCode #919) |
+
 ## 3. Bảng tiến độ
 
 Đánh dấu: ✅ tự làm được < 25' · 🟨 phải xem hint · ❌ phải xem lời giải · 🔁 cần làm lại. Cột "Redo" ghi ngày làm lại (+3 ngày).
