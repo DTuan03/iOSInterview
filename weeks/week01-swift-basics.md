@@ -158,6 +158,7 @@ let third = s[s.index(s.startIndex, offsetBy: 2)]  // "n"
 
 **Thao tác hay dùng:**
 ```swift
+import Foundation                 // cần cho trimmingCharacters(in:)
 let email = "  Tuan@Example.com "
 let clean = email.trimmingCharacters(in: .whitespaces).lowercased()
 clean.hasPrefix("tuan")           // true
