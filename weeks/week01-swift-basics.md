@@ -1,6 +1,8 @@
 # Tuần 1 — Swift nền tảng (09/11 – 15/11/2026)
 
 > **Giai đoạn 1 · Swift Core** · Thời lượng: ~14 giờ
+> 📌 Chưa đọc [Phương pháp học](../PHUONG-PHAP-HOC.md)? Đọc trước, rồi học mỗi ngày theo khung 90 phút trong đó.
+>
 > Tuần này "khởi động lại máy". Kiến thức dễ nhưng **người phỏng vấn hay hỏi xoáy ở chính những chỗ dễ** (Optional, String, inout, switch). Đừng lướt.
 
 ## 🎯 Mục tiêu tuần

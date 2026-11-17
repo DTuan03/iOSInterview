@@ -20,11 +20,12 @@ phần giải thích kiến thức từ gốc, code ví dụ chạy được, b�
 
 > Tạo một **Xcode profile riêng** hoặc tắt "Predictive Code Completion" trong Xcode → Settings → Text Editing khi học.
 
-### 1.2. Phương pháp học mỗi chủ đề (vòng 4 bước)
-1. **Đọc** phần "Kiến thức cốt lõi" trong file tuần (15–20 phút).
-2. **Gõ lại** code ví dụ vào Playground hoặc file `.swift`, **sửa thử** để xem nó gãy ở đâu.
-3. **Làm bài tập** — không nhìn lời giải.
-4. **Nói lại** (Feynman): mở voice memo, giải thích chủ đề trong 2 phút như đang trả lời phỏng vấn. Nghe lại, chỗ nào ấp úng = chỗ chưa hiểu.
+### 1.2. Phương pháp học — 📌 [đọc PHUONG-PHAP-HOC.md trước khi bắt đầu](PHUONG-PHAP-HOC.md)
+Tóm tắt:
+- **Học = tự lôi kiến thức ra khỏi đầu.** Ít nhất một nửa thời gian là gập tài liệu lại để tự nhớ, tự viết, tự nói.
+- **Mỗi tối một buổi 90 phút theo khung cố định:** nhớ lại hôm qua (5') → đọc 1 mục (25') → gõ code và phá code (30') → bài tập/DSA (20') → đóng buổi và tạo flashcard (10').
+- **Anki 10–15 phút mỗi ngày** để ôn giãn cách, không quên lại.
+- **Một chủ đề chỉ tính là xong** khi qua được 3 bài thử: giải thích trên giấy trắng, code từ file trống, trả lời câu "tại sao / nếu… thì sao".
 
 ### 1.3. Cách chạy code nhanh không cần mở Xcode
 Máy bạn đã có Swift 6.3. Tạo file rồi chạy:
@@ -105,6 +106,7 @@ Tổng ≈ **13–15 giờ/tuần**, ~260 giờ cho cả lộ trình. Nếu tu�
 ```
 Interview/
 ├── README.md               ← file này
+├── PHUONG-PHAP-HOC.md      ← học như thế nào (đọc đầu tiên)
 ├── weeks/                  ← 19 file, mỗi tuần một file
 ├── tracks/
 │   ├── dsa-plan.md         ← thuật toán theo tuần
