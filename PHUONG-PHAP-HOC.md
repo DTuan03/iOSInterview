@@ -154,7 +154,7 @@ Thấy hiểu khi đọc thì chưa đủ. Một chủ đề chỉ tính là xon
 
 | Ngày | Làm gì |
 |---|---|
-| **T2–T6** | Mỗi tối một buổi 90 phút theo [khung ở mục 2](#2-khung-một-buổi-học-90-phút-t2t6) + 10–15 phút Anki |
+| **T2–T6** | Mỗi tối một buổi 90 phút theo khung ở mục 2 + 10–15 phút Anki |
 | **T7** | Bài tập lớn + side project. Đây là lúc ghép các mảnh kiến thức lại thành thứ chạy được |
 | **CN** | **Chỉ tự kiểm tra, không học mới:** tự trả lời câu 🎤 trên giấy rồi mới mở đáp án → ghi âm 2–3 câu → tick checklist → chỗ nào chưa đạt thì ghi vào "cần học lại" cho đầu tuần sau |
 
